@@ -30,7 +30,7 @@ This Video shows my steps used to create a Vm within VMware Workstation and Conf
 
 
 
-**I made a video on my project so that it will be easier to understand the steps I've done to use a VM with VMare.**
+**I made a video on my project so that it will be easier to understand the steps I've done to use a VM with VMware.**
 
 I noticed how hard it is to read and follow long projects so it'll just be easier this way ,Ive done this same exact project but within Microsoft Azure VMs. 
 
