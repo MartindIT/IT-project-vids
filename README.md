@@ -9,9 +9,9 @@ This Video shows my steps used to create a Vm within VMware Workstation and Conf
 
 <h1> VIDEO </h1>
 
-**[YOUTUBE LINK](https://youtu.be/ygrwi7X8Q00)**
+**[YOUTUBE LINK](https://youtu.be/ygrwi7X8Q00)**                    
 
-
+ https://www.youtube.com/watch?v=ygrwi7X8Q00&list=PLrbMZfjq8xh0PR_X6Odkw6mfiRb8m3M3c&index=2
 <h2>Environments and Technologies Used</h2>
 
 - VMware Workstation Pro (Virtual Machines/Compute)
